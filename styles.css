@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #737373;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #C1272D;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+main {
+    padding: 2rem;
+}
+footer {
+    text-align: center;
+    color: #737373;
+    padding: 1rem;
+    background-color: #1a1a1a;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+select {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+#levelingContent {
+    margin-top: 1rem;
+}
