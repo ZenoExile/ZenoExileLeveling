@@ -1,15 +1,17 @@
 
 {
-    "Act 1": [
-        "Start with Split Arrow + Caustic Arrow",
-        "Equip a bow with high attack speed",
-        "Grab Mirage Archer when available",
-        "Kill Brutus and link Caustic Arrow with Mirage Archer + Void Manipulation"
+    "Huntress - Act 1": [
+        "Pick Caustic Arrow and Pierce",
+        "Buy Mirage Archer",
+        "Link Caustic Arrow + Mirage + Void Manipulation",
+        "Kill Brutus",
+        "Proceed to Merveil"
     ],
-    "Act 2": [
-        "Help Alira for resists and mana regen",
-        "Equip a 4-link bow",
-        "Use Toxic Rain or Caustic Arrow",
-        "Kill Weaver and get your 2nd main support gem"
+    "Witch - Act 1": [
+        "Start with Freezing Pulse",
+        "Link with Arcane Surge",
+        "Buy Frost Bomb and Orb of Storms",
+        "Kill Brutus using Frost Bomb",
+        "Prepare for Act 2 with added Cold Damage"
     ]
 }
