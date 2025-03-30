@@ -1,17 +1,17 @@
 
 {
-    "Huntress - Act 1": [
-        "Pick Caustic Arrow and Pierce",
-        "Buy Mirage Archer",
-        "Link Caustic Arrow + Mirage + Void Manipulation",
-        "Kill Brutus",
-        "Proceed to Merveil"
-    ],
-    "Witch - Act 1": [
-        "Start with Freezing Pulse",
-        "Link with Arcane Surge",
-        "Buy Frost Bomb and Orb of Storms",
-        "Kill Brutus using Frost Bomb",
-        "Prepare for Act 2 with added Cold Damage"
-    ]
+  "Huntress - Act 1": [
+    "Pick Caustic Arrow and Pierce",
+    "Buy Mirage Archer",
+    "Link Caustic Arrow + Mirage + Void Manipulation",
+    "Kill Brutus",
+    "Proceed to Merveil"
+  ],
+  "Witch - Act 1": [
+    "Start with Freezing Pulse",
+    "Link with Arcane Surge",
+    "Buy Frost Bomb and Orb of Storms",
+    "Kill Brutus using Frost Bomb",
+    "Prepare for Act 2 with added Cold Damage"
+  ]
 }
