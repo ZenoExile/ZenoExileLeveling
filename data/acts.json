@@ -1,463 +1,82 @@
-{
-  "1": [
-    {
-      "title": "Etapa 1",
-      "steps": [
-        "Mate o Moleiro Inchado e entre na cidade."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 2",
-      "steps": [
-        "Entregue as missões e vá para Clearfell."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 3",
-      "steps": [
-        "Mate Beira da Matilha Podre (N/NE do ponto). Recompensa: +10% res. frio."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 4",
-      "steps": [
-        "Encontre a entrada de Grelwood."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 5",
-      "steps": [
-        "Encontre o ponto de transporte e fale com o NPC central."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 6",
-      "steps": [
-        "Encontre a entrada de The Grim Tangle, ative o ponto e volte."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 7",
-      "steps": [
-        "Encontre e atravesse The Red Vale."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 8",
-      "steps": [
-        "Pegue os 3 itens nos obeliscos."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 9",
-      "steps": [
-        "Volte à cidade, fale com Renly e pegue os Espinhos Rúnicos."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 10",
-      "steps": [
-        "Volte a Grelwood, invoque Una e espete a árvore."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 11",
-      "steps": [
-        "Volte à cidade e vá para Grim Tangle."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 12",
-      "steps": [
-        "Encontre a entrada do Cemitério dos Eternos."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 13",
-      "steps": [
-        "Mate os chefes do Mausoléu e Túmulo da Consorte."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 14",
-      "steps": [
-        "Fale e mate Lachlann."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 15",
-      "steps": [
-        "Entre nos Campos de Caça e mate Crowbell (+2 pontos)."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 16",
-      "steps": [
-        "Entre nas Terras de Ogham e encontre o alaúde de Una (+2 pontos)."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 17",
-      "steps": [
-        "Mate Vargir no Círculo de Colheita (gema nv 4)."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 18",
-      "steps": [
-        "Entre na Vila de Ogham e mate o Carrasco."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 19",
-      "steps": [
-        "Vá às Muralhas da Mansão e entre na Mansão de Ogham."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 20",
-      "steps": [
-        "Mate Candlemass, desça duas vezes e mate o chefe."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 21",
-      "steps": [
-        "Volte à cidade e fale com o Encapuzado para ir ao Ato 2."
-      ],
-      "hasWaypoint": true
-    }
-  ],
-  "2": [
-    {
-      "title": "Etapa 1",
-      "steps": [
-        "Mate Rathbreaker e entre na Caravana de Ardura."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 2",
-      "steps": [
-        "Fale com todos e vá para a Pedreira de Mawdun."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 3",
-      "steps": [
-        "Entre na Mina de Mawdun e mate Rudja."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 4",
-      "steps": [
-        "Fale com Risu, depois com Sekhema Asala nos Portões de Halani."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 5",
-      "steps": [
-        "Vá aos Portões de Halani novamente."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 6",
-      "steps": [
-        "Mate Basala e pegue o item Djinn Barya."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 7",
-      "steps": [
-        "Entre nos Portões de Halani e mate Jamanra (cruze cânion 3x)."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 8",
-      "steps": [
-        "Vá para o canto inferior direito e volte à cidade."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 9",
-      "steps": [
-        "Vá para Keth e mate Kabala (+2 pontos)."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 10",
-      "steps": [
-        "Ache o relicário do Clã Kabala e vá para a Cidade Perdida."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 11",
-      "steps": [
-        "Mate Azarian e pegue a Essência da Água com Halani."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 12",
-      "steps": [
-        "Vá aos Ermos dos Mastodontes, depois aos Poços Ósseos."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 13",
-      "steps": [
-        "Mate o chefe dos Poços e pegue a corneta."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 14",
-      "steps": [
-        "Mate hienas até achar o relicário do Clã do Sol."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 15",
-      "steps": [
-        "Vá ao Vale dos Titãs, clique nos 3 selos e use os relicários."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 16",
-      "steps": [
-        "Entre e mate o chefe na Gruta do Titã."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 17",
-      "steps": [
-        "Fale com Zarka e Sekhema Asala. Toque a corneta na caravana."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 18",
-      "steps": [
-        "Vá até Deshar, ache a carta final (+2 pontos)."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 19",
-      "steps": [
-        "Entre no Caminho do Luto e depois nas Torres de Deshar."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 20",
-      "steps": [
-        "Mate Tor Gul e volte à cidade."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 21",
-      "steps": [
-        "Entregue a carta a Shambrin e vá ao Encouraçado."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 22",
-      "steps": [
-        "Mate Jamanra, a Abominação e fale com o Encapuzado."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 23",
-      "steps": [
-        "Fale com Sekhema Asala para ir ao Ato 3."
-      ],
-      "hasWaypoint": false
-    }
-  ],
-  "3": [
-    {
-      "title": "Etapa 1",
-      "steps": [
-        "Encontre o Acampamento do Zigurate (cidade)."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 2",
-      "steps": [
-        "Entre nas Ruínas da Selva e vá até as Criptas Venenosas."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 3",
-      "steps": [
-        "Mate Punho de Prata Poderoso."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 4",
-      "steps": [
-        "Entre nos Ermos Infestados e ative os pontos de transporte dos Pântanos Quimerais e Azak."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 5",
-      "steps": [
-        "Ative o ponto nas Vias de Matlan."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 6",
-      "steps": [
-        "Volte e entre nas Criptas Venenosas, pegue o frasco e entregue a Servi."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 7",
-      "steps": [
-        "No Pântano de Azak, ative os rituais e mate Ignagduk (+30 espírito)."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 8",
-      "steps": [
-        "Nos Pântanos Quimerais, mate Xyclucian."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 9",
-      "steps": [
-        "No Maquinário de Jiquani, colete 3 núcleos pequenos."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 10",
-      "steps": [
-        "Entre no Santuário de Jiquani, fale com Alva, colete 2 núcleos médios."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 11",
-      "steps": [
-        "Ative os geradores, coloque um portal antes do segundo."
-      ],
-      "hasWaypoint": true
-    },
-    {
-      "title": "Etapa 12",
-      "steps": [
-        "Mate Zicoatl e pegue o núcleo grande."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 13",
-      "steps": [
-        "Use o núcleo grande nas Barrens e vá para Matlan."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 14",
-      "steps": [
-        "Ative todas as alavancas e retorne à cidade."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 15",
-      "steps": [
-        "Entre na Cidade Submersa, depois vá ao Ápice da Imundície."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 16",
-      "steps": [
-        "Mate a Rainha da Imundície."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 17",
-      "steps": [
-        "Entre no Templo de Kopec e mate Ketzuli."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 18",
-      "steps": [
-        "Fale com Alva, entre em Utzaal e mate Víbora Napuatzi."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 19",
-      "steps": [
-        "Entre em Aggorat, siga o Julgamento de Atziri."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 20",
-      "steps": [
-        "Pegue a adaga e esfaqueie o Coração Sacrificial."
-      ],
-      "hasWaypoint": false
-    },
-    {
-      "title": "Etapa 21",
-      "steps": [
-        "Nas Câmaras Negras, mate Doryani e finalize a campanha!"
-      ],
-      "hasWaypoint": false
-    }
-  ]
-}
+[
+  {
+    "act": "1",
+    "objectives": [
+      "Mate o Moleiro Inchado e entre na cidade.",
+      "Entregue as missões e vá para Clearfell.",
+      "Mate Beira da Matilha Podre (N/NE do ponto). Recompensa: +10% res. frio.",
+      "Encontre a entrada de Grelwood.",
+      "Encontre o ponto de transporte e fale com o NPC central.",
+      "Encontre a entrada de The Grim Tangle, ative o ponto e volte.",
+      "Encontre e atravesse The Red Vale.",
+      "Pegue os 3 itens nos obeliscos.",
+      "Volte à cidade, fale com Renly e pegue os Espinhos Rúnicos.",
+      "Volte a Grelwood, invoque Una e espete a árvore.",
+      "Volte à cidade e vá para Grim Tangle.",
+      "Encontre a entrada do Cemitério dos Eternos.",
+      "Mate os chefes do Mausoléu e Túmulo da Consorte.",
+      "Fale e mate Lachlann.",
+      "Entre nos Campos de Caça e mate Crowbell (+2 pontos).",
+      "Entre nas Terras de Ogham e encontre o alaúde de Una (+2 pontos).",
+      "Mate Vargir no Círculo de Colheita (gema nv 4).",
+      "Entre na Vila de Ogham e mate o Carrasco.",
+      "Vá às Muralhas da Mansão e entre na Mansão de Ogham.",
+      "Mate Candlemass, desça duas vezes e mate o chefe.",
+      "Volte à cidade e fale com o Encapuzado para ir ao Ato 2."
+    ]
+  },
+  {
+    "act": "2",
+    "objectives": [
+      "Mate Rathbreaker e entre na Caravana de Ardura.",
+      "Fale com todos e vá para a Pedreira de Mawdun.",
+      "Entre na Mina de Mawdun e mate Rudja.",
+      "Fale com Risu, depois com Sekhema Asala nos Portões de Halani.",
+      "Vá aos Portões de Halani novamente.",
+      "Mate Basala e pegue o item Djinn Barya.",
+      "Entre nos Portões de Halani e mate Jamanra (cruze cânion 3x).",
+      "Vá para o canto inferior direito e volte à cidade.",
+      "Vá para Keth e mate Kabala (+2 pontos).",
+      "Ache o relicário do Clã Kabala e vá para a Cidade Perdida.",
+      "Mate Azarian e pegue a Essência da Água com Halani.",
+      "Vá aos Ermos dos Mastodontes, depois aos Poços Ósseos.",
+      "Mate o chefe dos Poços e pegue a corneta.",
+      "Mate hienas até achar o relicário do Clã do Sol.",
+      "Vá ao Vale dos Titãs, clique nos 3 selos e use os relicários.",
+      "Entre e mate o chefe na Gruta do Titã.",
+      "Fale com Zarka e Sekhema Asala. Toque a corneta na caravana.",
+      "Vá até Deshar, ache a carta final (+2 pontos).",
+      "Entre no Caminho do Luto e depois nas Torres de Deshar.",
+      "Mate Tor Gul e volte à cidade.",
+      "Entregue a carta a Shambrin e vá ao Encouraçado.",
+      "Mate Jamanra, a Abominação e fale com o Encapuzado.",
+      "Fale com Sekhema Asala para ir ao Ato 3."
+    ]
+  },
+  {
+    "act": "3",
+    "objectives": [
+      "Encontre o Acampamento do Zigurate (cidade).",
+      "Entre nas Ruínas da Selva e vá até as Criptas Venenosas.",
+      "Mate Punho de Prata Poderoso.",
+      "Entre nos Ermos Infestados e ative os pontos de transporte dos Pântanos Quimerais e Azak.",
+      "Ative o ponto nas Vias de Matlan.",
+      "Volte e entre nas Criptas Venenosas, pegue o frasco e entregue a Servi.",
+      "No Pântano de Azak, ative os rituais e mate Ignagduk (+30 espírito).",
+      "Nos Pântanos Quimerais, mate Xyclucian.",
+      "No Maquinário de Jiquani, colete 3 núcleos pequenos.",
+      "Entre no Santuário de Jiquani, fale com Alva, colete 2 núcleos médios.",
+      "Ative os geradores, coloque um portal antes do segundo.",
+      "Mate Zicoatl e pegue o núcleo grande.",
+      "Use o núcleo grande nas Barrens e vá para Matlan.",
+      "Ative todas as alavancas e retorne à cidade.",
+      "Entre na Cidade Submersa, depois vá ao Ápice da Imundície.",
+      "Mate a Rainha da Imundície.",
+      "Entre no Templo de Kopec e mate Ketzuli.",
+      "Fale com Alva, entre em Utzaal e mate Víbora Napuatzi.",
+      "Entre em Aggorat, siga o Julgamento de Atziri.",
+      "Pegue a adaga e esfaqueie o Coração Sacrificial.",
+      "Nas Câmaras Negras, mate Doryani e finalize a campanha!"
+    ]
+  }
+]
