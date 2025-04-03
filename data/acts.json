@@ -1,11 +1,38 @@
 [
   {
+    "act": "1",
     "objectives": [
-      "Fale com Tarkleigh na praia",
-      "Mate Hillock e colete sua arma",
-      "Entre na Prisão Subterrânea",
-      "Mate Brutus",
-      "Encontre Nessa e receba sua recompensa"
+      "Mate o Moleiro Inchado e entre na cidade"
+    ]
+  },
+  {
+    "act": "2",
+    "objectives": [
+      "Encontre e mate Rathbreaker"
+    ]
+  },
+  {
+    "act": "3",
+    "objectives": [
+      "Encontre a entrada para o Ziggurat Encampment (cidade)"
+    ]
+  },
+  {
+    "act": "1 Cruel",
+    "objectives": [
+      "Mate o Moleiro Inchado e entre na cidade"
+    ]
+  },
+  {
+    "act": "2 Cruel",
+    "objectives": [
+      "Encontre e mate Rathbreaker"
+    ]
+  },
+  {
+    "act": "3 Cruel",
+    "objectives": [
+      "Encontre a entrada para o Ziggurat Encampment (cidade)"
     ]
   }
 ]
